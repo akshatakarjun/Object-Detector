@@ -1,0 +1,7 @@
+
+train: C:/Users/91776/Desktop/Pedestrian_Detection/yolo_dataset/train
+val: C:/Users/91776/Desktop/Pedestrian_Detection/yolo_dataset/validation
+test: C:/Users/91776/Desktop/Pedestrian_Detection/yolo_dataset/test
+
+nc: 2
+names: ['person', 'person-like']
